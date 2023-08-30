@@ -1,0 +1,7 @@
+#236340 h1
+#DAF3E5 h2-barra
+#2FA866 barralist
+#C5EBD6 list
+#1A5C38 bordas e rodapés
+#84E1AD backgroundcolor
+#1A5C38 #217446 #288D55 #31B06A #3CD983 degradê
